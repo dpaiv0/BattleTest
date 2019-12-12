@@ -1,0 +1,11 @@
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\bin\Debug\BattleTest.exe.config
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\bin\Debug\BattleTest.exe
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\bin\Debug\BattleTest.pdb
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\bin\Debug\BattleTest.xml
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\obj\Debug\BattleTest.vbprojResolveAssemblyReference.cache
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\obj\Debug\BattleTest.Form1.resources
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\obj\Debug\BattleTest.Resources.resources
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\obj\Debug\BattleTest.vbproj.GenerateResource.Cache
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\obj\Debug\BattleTest.exe
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\obj\Debug\BattleTest.xml
+C:\Users\dpaiv\AppData\Local\Temporary Projects\BattleTest\obj\Debug\BattleTest.pdb
